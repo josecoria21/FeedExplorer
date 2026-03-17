@@ -1,0 +1,3 @@
+-keep,allowobfuscation,allowshrinking class com.josecoria.feedexplorer.ui.detail.ProviderDetailViewModel
+-keep,allowobfuscation,allowshrinking class com.josecoria.feedexplorer.ui.detail.ProviderDetailViewModel
+-keep,allowobfuscation,allowshrinking class com.josecoria.feedexplorer.ui.list.ProviderListViewModel

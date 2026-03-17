@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_provider_placeholder
+mipmap ic_launcher
+string accepting_patients_no
+string accepting_patients_yes
+string app_name
+string button_retry
+string content_description_accepting_patients
+string content_description_avatar
+string content_description_back
+string content_description_clear_search
+string error_loading_providers
+string error_provider_not_found
+string label_accepting_patients
+string label_location
+string label_npi
+string label_salary_range
+string label_specialty
+string location_format
+string no_results_found
+string provider_full_name
+string provider_name_no_suffix
+string screen_title_provider_detail
+string screen_title_providers
+string search_hint
+style Theme.FeedExplorer

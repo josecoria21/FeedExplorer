@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.josecoria.feedexplorer.ui.list.ProviderListViewModelTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-03-14T20:00:06" hostname="MacBook-Pro-de-Jose.local" time="0.241">
+  <properties/>
+  <testcase name="search filters providers by first name" classname="com.josecoria.feedexplorer.ui.list.ProviderListViewModelTest" time="0.14"/>
+  <testcase name="retry reloads providers successfully" classname="com.josecoria.feedexplorer.ui.list.ProviderListViewModelTest" time="0.023"/>
+  <testcase name="search filters providers by specialty" classname="com.josecoria.feedexplorer.ui.list.ProviderListViewModelTest" time="0.018"/>
+  <testcase name="init emits Success when use case succeeds" classname="com.josecoria.feedexplorer.ui.list.ProviderListViewModelTest" time="0.022"/>
+  <testcase name="init emits Error when use case throws" classname="com.josecoria.feedexplorer.ui.list.ProviderListViewModelTest" time="0.018"/>
+  <testcase name="clearing search shows all providers" classname="com.josecoria.feedexplorer.ui.list.ProviderListViewModelTest" time="0.016"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

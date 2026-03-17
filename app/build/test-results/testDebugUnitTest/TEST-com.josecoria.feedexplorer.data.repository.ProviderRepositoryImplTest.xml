@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.josecoria.feedexplorer.data.repository.ProviderRepositoryImplTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-03-14T20:00:02" hostname="MacBook-Pro-de-Jose.local" time="3.648">
+  <properties/>
+  <testcase name="getProviders caches results after first call" classname="com.josecoria.feedexplorer.data.repository.ProviderRepositoryImplTest" time="3.601"/>
+  <testcase name="getProviders throws exception when API fails" classname="com.josecoria.feedexplorer.data.repository.ProviderRepositoryImplTest" time="0.014"/>
+  <testcase name="getProviders returns mapped domain models on success" classname="com.josecoria.feedexplorer.data.repository.ProviderRepositoryImplTest" time="0.013"/>
+  <testcase name="refreshProviders clears cache and fetches again" classname="com.josecoria.feedexplorer.data.repository.ProviderRepositoryImplTest" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/josecoria/.gradle/daemon/8.11.1/com.josecoria.feedexplorer.app-debug-58:/drawable_ic_provider_placeholder.xml.flat",
+        "source": "/Users/josecoria/.gradle/daemon/8.11.1/com.josecoria.feedexplorer.app-main-60:/drawable/ic_provider_placeholder.xml"
+    },
+    {
+        "merged": "com.josecoria.feedexplorer.app-debug-58:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.josecoria.feedexplorer.app-main-60:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.josecoria.feedexplorer.app-debug-58:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.josecoria.feedexplorer.app-main-60:/drawable/ic_launcher_foreground.xml"
+    }
+]

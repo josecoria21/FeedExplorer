@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.josecoria.feedexplorer.app-release-55:/drawable_ic_provider_placeholder.xml.flat",
+        "source": "com.josecoria.feedexplorer.app-main-56:/drawable/ic_provider_placeholder.xml"
+    },
+    {
+        "merged": "com.josecoria.feedexplorer.app-release-55:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.josecoria.feedexplorer.app-main-56:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.josecoria.feedexplorer.app-release-55:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.josecoria.feedexplorer.app-main-56:/drawable/ic_launcher_foreground.xml"
+    }
+]
